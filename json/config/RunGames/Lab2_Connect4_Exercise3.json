@@ -1,0 +1,11 @@
+{
+  "game" : "Connect4",
+  "nPlayers" : 2,
+  "mode" : "exhaustive",
+  "matchups" : 1000,
+  "verbose" : false,
+  "seed" : 740234,
+  "listener" : "json/listeners/basiclistener.json",
+  "destDir" : "exercise3_outputdir",
+  "playerDirectory" : "json/players/lab3/tournamentPlayers"
+}

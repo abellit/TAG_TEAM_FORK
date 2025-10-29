@@ -1,0 +1,997 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
+346665430,Connect4,6,GAME_OVER,13,0,2,2,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+879079583,Connect4,3,GAME_OVER,7,0,2,3,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-619666105,Connect4,6,GAME_OVER,13,0,2,4,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+503938916,Connect4,5,GAME_OVER,11,0,2,5,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-428737539,Connect4,4,GAME_OVER,9,0,2,6,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1745970416,Connect4,3,GAME_OVER,7,0,2,7,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1436161366,Connect4,3,GAME_OVER,7,0,2,8,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1151041315,Connect4,3,GAME_OVER,7,0,2,9,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+697067980,Connect4,4,GAME_OVER,9,0,2,10,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1168140970,Connect4,3,GAME_OVER,7,0,2,11,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1491060889,Connect4,4,GAME_OVER,9,0,2,12,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1819802610,Connect4,3,GAME_OVER,7,0,2,13,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2121274456,Connect4,3,GAME_OVER,7,0,2,14,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+259280696,Connect4,3,GAME_OVER,7,0,2,15,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1706137030,Connect4,4,GAME_OVER,9,0,2,16,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+545138396,Connect4,3,GAME_OVER,7,0,2,17,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1376458976,Connect4,3,GAME_OVER,7,0,2,18,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1195311045,Connect4,3,GAME_OVER,7,0,2,19,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+813477029,Connect4,3,GAME_OVER,7,0,2,20,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1466178614,Connect4,3,GAME_OVER,7,0,2,21,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-118322159,Connect4,4,GAME_OVER,9,0,2,22,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1428166355,Connect4,3,GAME_OVER,7,0,2,23,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1144294523,Connect4,3,GAME_OVER,7,0,2,24,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2100098225,Connect4,6,GAME_OVER,13,0,2,25,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+23994827,Connect4,3,GAME_OVER,7,0,2,26,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1662792176,Connect4,8,GAME_OVER,17,0,2,27,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2013120665,Connect4,3,GAME_OVER,7,0,2,28,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1880183632,Connect4,3,GAME_OVER,7,0,2,29,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1377239692,Connect4,3,GAME_OVER,7,0,2,30,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1795532617,Connect4,3,GAME_OVER,7,0,2,31,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1548656463,Connect4,3,GAME_OVER,7,0,2,32,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-653656736,Connect4,3,GAME_OVER,7,0,2,33,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-400394132,Connect4,3,GAME_OVER,7,0,2,34,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1422203009,Connect4,3,GAME_OVER,7,0,2,35,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1113178468,Connect4,7,GAME_OVER,15,0,2,36,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-175367348,Connect4,7,GAME_OVER,15,0,2,37,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1362911089,Connect4,4,GAME_OVER,9,0,2,38,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-347120262,Connect4,3,GAME_OVER,7,0,2,39,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1416514647,Connect4,4,GAME_OVER,9,0,2,40,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1570736736,Connect4,3,GAME_OVER,7,0,2,41,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1532681659,Connect4,3,GAME_OVER,7,0,2,42,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2038358424,Connect4,3,GAME_OVER,7,0,2,43,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1950377550,Connect4,3,GAME_OVER,7,0,2,44,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-389679841,Connect4,8,GAME_OVER,17,0,2,45,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1652369011,Connect4,3,GAME_OVER,7,0,2,46,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+649728961,Connect4,3,GAME_OVER,7,0,2,47,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1939385821,Connect4,3,GAME_OVER,7,0,2,48,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-765151654,Connect4,3,GAME_OVER,7,0,2,49,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-382843140,Connect4,3,GAME_OVER,7,0,2,50,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1616233144,Connect4,3,GAME_OVER,7,0,2,51,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1825767405,Connect4,4,GAME_OVER,9,0,2,52,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1681345762,Connect4,3,GAME_OVER,7,0,2,53,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1466223696,Connect4,3,GAME_OVER,7,0,2,54,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-898042700,Connect4,3,GAME_OVER,7,0,2,55,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-622095176,Connect4,3,GAME_OVER,7,0,2,56,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1621553363,Connect4,3,GAME_OVER,7,0,2,57,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+2021511387,Connect4,6,GAME_OVER,13,0,2,58,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1677040338,Connect4,3,GAME_OVER,7,0,2,59,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1955989905,Connect4,3,GAME_OVER,7,0,2,60,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1876231119,Connect4,5,GAME_OVER,11,0,2,61,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1294795098,Connect4,3,GAME_OVER,7,0,2,62,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+127372284,Connect4,3,GAME_OVER,7,0,2,63,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-991207967,Connect4,4,GAME_OVER,9,0,2,64,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1049258221,Connect4,4,GAME_OVER,9,0,2,65,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-2039767727,Connect4,4,GAME_OVER,9,0,2,66,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1908179359,Connect4,3,GAME_OVER,7,0,2,67,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1115136563,Connect4,3,GAME_OVER,7,0,2,68,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1493045323,Connect4,3,GAME_OVER,7,0,2,69,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-394703714,Connect4,6,GAME_OVER,13,0,2,70,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-432712488,Connect4,6,GAME_OVER,13,0,2,71,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+491282519,Connect4,3,GAME_OVER,7,0,2,72,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-884033504,Connect4,3,GAME_OVER,7,0,2,73,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+991772015,Connect4,4,GAME_OVER,9,0,2,74,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-835279488,Connect4,3,GAME_OVER,7,0,2,75,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+288423849,Connect4,7,GAME_OVER,15,0,2,76,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+306462715,Connect4,5,GAME_OVER,11,0,2,77,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1595934290,Connect4,8,GAME_OVER,17,0,2,78,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+372545689,Connect4,4,GAME_OVER,9,0,2,79,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1791317608,Connect4,4,GAME_OVER,9,0,2,80,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+594493312,Connect4,4,GAME_OVER,9,0,2,81,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+1375946348,Connect4,3,GAME_OVER,7,0,2,82,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+-1004766817,Connect4,3,GAME_OVER,7,0,2,83,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+714044006,Connect4,3,GAME_OVER,7,0,2,84,Basic MCTS,-1.0,1.0,RandomPlayer,2,Basic MCTS,2,1,1,RandomPlayer,RandomPlayer,Basic MCTS,0
+346665430,Connect4,4,GAME_OVER,9,0,2,85,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+879079583,Connect4,3,GAME_OVER,7,0,2,86,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-619666105,Connect4,3,GAME_OVER,7,0,2,87,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+503938916,Connect4,3,GAME_OVER,7,0,2,88,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-428737539,Connect4,6,GAME_OVER,13,0,2,89,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1745970416,Connect4,4,GAME_OVER,9,0,2,90,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1436161366,Connect4,3,GAME_OVER,7,0,2,91,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1151041315,Connect4,3,GAME_OVER,7,0,2,92,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+697067980,Connect4,3,GAME_OVER,7,0,2,93,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1168140970,Connect4,4,GAME_OVER,9,0,2,94,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1491060889,Connect4,6,GAME_OVER,13,0,2,95,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1819802610,Connect4,5,GAME_OVER,11,0,2,96,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-2121274456,Connect4,4,GAME_OVER,9,0,2,97,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+259280696,Connect4,5,GAME_OVER,11,0,2,98,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1706137030,Connect4,3,GAME_OVER,7,0,2,99,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+545138396,Connect4,3,GAME_OVER,7,0,2,100,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1376458976,Connect4,3,GAME_OVER,7,0,2,101,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1195311045,Connect4,5,GAME_OVER,11,0,2,102,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+813477029,Connect4,3,GAME_OVER,7,0,2,103,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1466178614,Connect4,4,GAME_OVER,9,0,2,104,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-118322159,Connect4,3,GAME_OVER,7,0,2,105,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1428166355,Connect4,3,GAME_OVER,7,0,2,106,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1144294523,Connect4,3,GAME_OVER,7,0,2,107,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+2100098225,Connect4,3,GAME_OVER,7,0,2,108,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+23994827,Connect4,3,GAME_OVER,7,0,2,109,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1662792176,Connect4,3,GAME_OVER,7,0,2,110,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+2013120665,Connect4,3,GAME_OVER,7,0,2,111,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1880183632,Connect4,4,GAME_OVER,9,0,2,112,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1377239692,Connect4,9,GAME_OVER,19,0,2,113,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1795532617,Connect4,5,GAME_OVER,11,0,2,114,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1548656463,Connect4,3,GAME_OVER,7,0,2,115,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-653656736,Connect4,3,GAME_OVER,7,0,2,116,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-400394132,Connect4,5,GAME_OVER,11,0,2,117,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1422203009,Connect4,3,GAME_OVER,7,0,2,118,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1113178468,Connect4,3,GAME_OVER,7,0,2,119,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-175367348,Connect4,3,GAME_OVER,7,0,2,120,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1362911089,Connect4,6,GAME_OVER,13,0,2,121,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-347120262,Connect4,7,GAME_OVER,15,0,2,122,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1416514647,Connect4,3,GAME_OVER,7,0,2,123,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1570736736,Connect4,3,GAME_OVER,7,0,2,124,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1532681659,Connect4,3,GAME_OVER,7,0,2,125,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+2038358424,Connect4,3,GAME_OVER,7,0,2,126,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1950377550,Connect4,5,GAME_OVER,11,0,2,127,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-389679841,Connect4,8,GAME_OVER,17,0,2,128,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1652369011,Connect4,6,GAME_OVER,13,0,2,129,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+649728961,Connect4,3,GAME_OVER,7,0,2,130,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1939385821,Connect4,3,GAME_OVER,7,0,2,131,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-765151654,Connect4,3,GAME_OVER,7,0,2,132,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-382843140,Connect4,3,GAME_OVER,7,0,2,133,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1616233144,Connect4,3,GAME_OVER,7,0,2,134,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1825767405,Connect4,3,GAME_OVER,7,0,2,135,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1681345762,Connect4,7,GAME_OVER,15,0,2,136,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1466223696,Connect4,3,GAME_OVER,7,0,2,137,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-898042700,Connect4,3,GAME_OVER,7,0,2,138,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-622095176,Connect4,3,GAME_OVER,7,0,2,139,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1621553363,Connect4,3,GAME_OVER,7,0,2,140,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+2021511387,Connect4,6,GAME_OVER,13,0,2,141,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1677040338,Connect4,3,GAME_OVER,7,0,2,142,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1955989905,Connect4,3,GAME_OVER,7,0,2,143,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1876231119,Connect4,3,GAME_OVER,7,0,2,144,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1294795098,Connect4,3,GAME_OVER,7,0,2,145,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+127372284,Connect4,3,GAME_OVER,7,0,2,146,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-991207967,Connect4,3,GAME_OVER,7,0,2,147,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1049258221,Connect4,7,GAME_OVER,15,0,2,148,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-2039767727,Connect4,3,GAME_OVER,7,0,2,149,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1908179359,Connect4,3,GAME_OVER,7,0,2,150,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1115136563,Connect4,5,GAME_OVER,11,0,2,151,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1493045323,Connect4,3,GAME_OVER,7,0,2,152,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-394703714,Connect4,3,GAME_OVER,7,0,2,153,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-432712488,Connect4,3,GAME_OVER,7,0,2,154,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+491282519,Connect4,3,GAME_OVER,7,0,2,155,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-884033504,Connect4,3,GAME_OVER,7,0,2,156,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+991772015,Connect4,5,GAME_OVER,11,0,2,157,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-835279488,Connect4,3,GAME_OVER,7,0,2,158,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+288423849,Connect4,3,GAME_OVER,7,0,2,159,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+306462715,Connect4,6,GAME_OVER,13,0,2,160,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1595934290,Connect4,3,GAME_OVER,7,0,2,161,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+372545689,Connect4,3,GAME_OVER,7,0,2,162,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1791317608,Connect4,3,GAME_OVER,7,0,2,163,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+594493312,Connect4,3,GAME_OVER,7,0,2,164,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+1375946348,Connect4,3,GAME_OVER,7,0,2,165,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+-1004766817,Connect4,3,GAME_OVER,7,0,2,166,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+714044006,Connect4,3,GAME_OVER,7,0,2,167,Basic MCTS,-1.0,1.0,RMHC,2,Basic MCTS,2,1,1,RMHC,RMHC,Basic MCTS,0
+346665430,Connect4,3,GAME_OVER,7,0,2,168,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+879079583,Connect4,3,GAME_OVER,7,0,2,169,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-619666105,Connect4,3,GAME_OVER,7,0,2,170,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+503938916,Connect4,3,GAME_OVER,7,0,2,171,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-428737539,Connect4,3,GAME_OVER,7,0,2,172,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1745970416,Connect4,3,GAME_OVER,7,0,2,173,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1436161366,Connect4,3,GAME_OVER,7,0,2,174,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1151041315,Connect4,3,GAME_OVER,7,0,2,175,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+697067980,Connect4,8,GAME_OVER,17,0,2,176,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1168140970,Connect4,3,GAME_OVER,7,0,2,177,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1491060889,Connect4,4,GAME_OVER,9,0,2,178,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1819802610,Connect4,3,GAME_OVER,7,0,2,179,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-2121274456,Connect4,4,GAME_OVER,9,0,2,180,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+259280696,Connect4,5,GAME_OVER,11,0,2,181,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1706137030,Connect4,4,GAME_OVER,9,0,2,182,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+545138396,Connect4,6,GAME_OVER,13,0,2,183,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1376458976,Connect4,3,GAME_OVER,7,0,2,184,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1195311045,Connect4,3,GAME_OVER,7,0,2,185,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+813477029,Connect4,3,GAME_OVER,7,0,2,186,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1466178614,Connect4,3,GAME_OVER,7,0,2,187,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-118322159,Connect4,4,GAME_OVER,9,0,2,188,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1428166355,Connect4,3,GAME_OVER,7,0,2,189,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1144294523,Connect4,4,GAME_OVER,9,0,2,190,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+2100098225,Connect4,3,GAME_OVER,7,0,2,191,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+23994827,Connect4,3,GAME_OVER,7,0,2,192,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1662792176,Connect4,3,GAME_OVER,7,0,2,193,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+2013120665,Connect4,5,GAME_OVER,11,0,2,194,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1880183632,Connect4,3,GAME_OVER,7,0,2,195,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1377239692,Connect4,3,GAME_OVER,7,0,2,196,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1795532617,Connect4,3,GAME_OVER,7,0,2,197,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1548656463,Connect4,3,GAME_OVER,7,0,2,198,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-653656736,Connect4,3,GAME_OVER,7,0,2,199,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-400394132,Connect4,3,GAME_OVER,7,0,2,200,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1422203009,Connect4,6,GAME_OVER,13,0,2,201,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1113178468,Connect4,6,GAME_OVER,13,0,2,202,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-175367348,Connect4,3,GAME_OVER,7,0,2,203,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1362911089,Connect4,3,GAME_OVER,7,0,2,204,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-347120262,Connect4,4,GAME_OVER,9,0,2,205,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1416514647,Connect4,3,GAME_OVER,7,0,2,206,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1570736736,Connect4,3,GAME_OVER,7,0,2,207,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1532681659,Connect4,3,GAME_OVER,7,0,2,208,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+2038358424,Connect4,3,GAME_OVER,7,0,2,209,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1950377550,Connect4,3,GAME_OVER,7,0,2,210,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-389679841,Connect4,3,GAME_OVER,7,0,2,211,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1652369011,Connect4,3,GAME_OVER,7,0,2,212,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+649728961,Connect4,3,GAME_OVER,7,0,2,213,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1939385821,Connect4,3,GAME_OVER,7,0,2,214,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-765151654,Connect4,4,GAME_OVER,9,0,2,215,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-382843140,Connect4,3,GAME_OVER,7,0,2,216,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1616233144,Connect4,3,GAME_OVER,7,0,2,217,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1825767405,Connect4,3,GAME_OVER,7,0,2,218,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1681345762,Connect4,6,GAME_OVER,13,0,2,219,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1466223696,Connect4,4,GAME_OVER,9,0,2,220,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-898042700,Connect4,3,GAME_OVER,7,0,2,221,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-622095176,Connect4,3,GAME_OVER,7,0,2,222,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1621553363,Connect4,3,GAME_OVER,7,0,2,223,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+2021511387,Connect4,3,GAME_OVER,7,0,2,224,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1677040338,Connect4,4,GAME_OVER,9,0,2,225,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1955989905,Connect4,3,GAME_OVER,7,0,2,226,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1876231119,Connect4,3,GAME_OVER,7,0,2,227,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1294795098,Connect4,3,GAME_OVER,7,0,2,228,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+127372284,Connect4,3,GAME_OVER,7,0,2,229,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-991207967,Connect4,3,GAME_OVER,7,0,2,230,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1049258221,Connect4,3,GAME_OVER,7,0,2,231,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-2039767727,Connect4,5,GAME_OVER,11,0,2,232,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1908179359,Connect4,3,GAME_OVER,7,0,2,233,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1115136563,Connect4,7,GAME_OVER,15,0,2,234,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1493045323,Connect4,3,GAME_OVER,7,0,2,235,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-394703714,Connect4,3,GAME_OVER,7,0,2,236,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-432712488,Connect4,3,GAME_OVER,7,0,2,237,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+491282519,Connect4,3,GAME_OVER,7,0,2,238,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-884033504,Connect4,3,GAME_OVER,7,0,2,239,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+991772015,Connect4,3,GAME_OVER,7,0,2,240,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-835279488,Connect4,3,GAME_OVER,7,0,2,241,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+288423849,Connect4,3,GAME_OVER,7,0,2,242,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+306462715,Connect4,4,GAME_OVER,9,0,2,243,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1595934290,Connect4,3,GAME_OVER,7,0,2,244,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+372545689,Connect4,3,GAME_OVER,7,0,2,245,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1791317608,Connect4,3,GAME_OVER,7,0,2,246,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+594493312,Connect4,5,GAME_OVER,11,0,2,247,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+1375946348,Connect4,3,GAME_OVER,7,0,2,248,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+-1004766817,Connect4,3,GAME_OVER,7,0,2,249,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+714044006,Connect4,3,GAME_OVER,7,0,2,250,Basic MCTS,-1.0,1.0,OSLA,2,Basic MCTS,2,1,1,OSLA,OSLA,Basic MCTS,0
+346665430,Connect4,4,GAME_OVER,10,1,2,251,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+879079583,Connect4,3,GAME_OVER,8,1,2,252,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-619666105,Connect4,5,GAME_OVER,12,1,2,253,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+503938916,Connect4,8,GAME_OVER,18,1,2,254,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-428737539,Connect4,3,GAME_OVER,8,1,2,255,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1745970416,Connect4,3,GAME_OVER,8,1,2,256,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1436161366,Connect4,5,GAME_OVER,12,1,2,257,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1151041315,Connect4,3,GAME_OVER,8,1,2,258,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+697067980,Connect4,5,GAME_OVER,12,1,2,259,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1168140970,Connect4,5,GAME_OVER,12,1,2,260,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1491060889,Connect4,4,GAME_OVER,10,1,2,261,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1819802610,Connect4,3,GAME_OVER,8,1,2,262,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2121274456,Connect4,3,GAME_OVER,8,1,2,263,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+259280696,Connect4,4,GAME_OVER,10,1,2,264,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1706137030,Connect4,4,GAME_OVER,10,1,2,265,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+545138396,Connect4,11,GAME_OVER,24,1,2,266,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1376458976,Connect4,4,GAME_OVER,10,1,2,267,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1195311045,Connect4,3,GAME_OVER,8,1,2,268,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+813477029,Connect4,3,GAME_OVER,8,1,2,269,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1466178614,Connect4,5,GAME_OVER,12,1,2,270,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-118322159,Connect4,4,GAME_OVER,10,1,2,271,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1428166355,Connect4,7,GAME_OVER,16,1,2,272,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1144294523,Connect4,3,GAME_OVER,8,1,2,273,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2100098225,Connect4,4,GAME_OVER,10,1,2,274,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+23994827,Connect4,3,GAME_OVER,8,1,2,275,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1662792176,Connect4,4,GAME_OVER,10,1,2,276,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2013120665,Connect4,4,GAME_OVER,10,1,2,277,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1880183632,Connect4,5,GAME_OVER,12,1,2,278,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1377239692,Connect4,4,GAME_OVER,10,1,2,279,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1795532617,Connect4,3,GAME_OVER,8,1,2,280,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1548656463,Connect4,8,GAME_OVER,18,1,2,281,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-653656736,Connect4,4,GAME_OVER,10,1,2,282,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-400394132,Connect4,6,GAME_OVER,14,1,2,283,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1422203009,Connect4,3,GAME_OVER,8,1,2,284,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1113178468,Connect4,7,GAME_OVER,16,1,2,285,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-175367348,Connect4,3,GAME_OVER,8,1,2,286,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1362911089,Connect4,3,GAME_OVER,8,1,2,287,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-347120262,Connect4,3,GAME_OVER,8,1,2,288,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1416514647,Connect4,3,GAME_OVER,8,1,2,289,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1570736736,Connect4,3,GAME_OVER,8,1,2,290,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1532681659,Connect4,6,GAME_OVER,14,1,2,291,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2038358424,Connect4,6,GAME_OVER,14,1,2,292,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1950377550,Connect4,4,GAME_OVER,10,1,2,293,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-389679841,Connect4,4,GAME_OVER,10,1,2,294,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1652369011,Connect4,4,GAME_OVER,10,1,2,295,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+649728961,Connect4,3,GAME_OVER,8,1,2,296,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1939385821,Connect4,3,GAME_OVER,8,1,2,297,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-765151654,Connect4,6,GAME_OVER,14,1,2,298,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-382843140,Connect4,3,GAME_OVER,8,1,2,299,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1616233144,Connect4,3,GAME_OVER,8,1,2,300,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1825767405,Connect4,3,GAME_OVER,8,1,2,301,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1681345762,Connect4,12,GAME_OVER,26,1,2,302,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1466223696,Connect4,8,GAME_OVER,18,1,2,303,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-898042700,Connect4,3,GAME_OVER,8,1,2,304,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-622095176,Connect4,4,GAME_OVER,10,1,2,305,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1621553363,Connect4,3,GAME_OVER,8,1,2,306,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+2021511387,Connect4,3,GAME_OVER,8,1,2,307,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1677040338,Connect4,4,GAME_OVER,10,1,2,308,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1955989905,Connect4,5,GAME_OVER,12,1,2,309,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1876231119,Connect4,3,GAME_OVER,8,1,2,310,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1294795098,Connect4,4,GAME_OVER,10,1,2,311,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+127372284,Connect4,6,GAME_OVER,14,1,2,312,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-991207967,Connect4,3,GAME_OVER,8,1,2,313,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1049258221,Connect4,7,GAME_OVER,16,1,2,314,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-2039767727,Connect4,3,GAME_OVER,8,1,2,315,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1908179359,Connect4,4,GAME_OVER,10,1,2,316,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1115136563,Connect4,4,GAME_OVER,10,1,2,317,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1493045323,Connect4,3,GAME_OVER,8,1,2,318,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-394703714,Connect4,3,GAME_OVER,8,1,2,319,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-432712488,Connect4,3,GAME_OVER,8,1,2,320,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+491282519,Connect4,5,GAME_OVER,12,1,2,321,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-884033504,Connect4,7,GAME_OVER,16,1,2,322,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+991772015,Connect4,3,GAME_OVER,8,1,2,323,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-835279488,Connect4,3,GAME_OVER,8,1,2,324,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+288423849,Connect4,4,GAME_OVER,10,1,2,325,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+306462715,Connect4,10,GAME_OVER,22,1,2,326,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1595934290,Connect4,3,GAME_OVER,8,1,2,327,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+372545689,Connect4,6,GAME_OVER,14,1,2,328,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1791317608,Connect4,3,GAME_OVER,8,1,2,329,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+594493312,Connect4,3,GAME_OVER,8,1,2,330,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+1375946348,Connect4,4,GAME_OVER,10,1,2,331,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+-1004766817,Connect4,3,GAME_OVER,8,1,2,332,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+714044006,Connect4,3,GAME_OVER,8,1,2,333,RandomPlayer,1.0,-1.0,Basic MCTS,1,RandomPlayer,1,2,2,Basic MCTS,Basic MCTS,RandomPlayer,1
+346665430,Connect4,9,GAME_OVER,20,1,2,334,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+879079583,Connect4,7,GAME_OVER,15,0,2,335,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-619666105,Connect4,10,GAME_OVER,21,0,2,336,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+503938916,Connect4,7,GAME_OVER,15,0,2,337,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-428737539,Connect4,6,GAME_OVER,14,1,2,338,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1745970416,Connect4,9,GAME_OVER,20,1,2,339,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1436161366,Connect4,4,GAME_OVER,10,1,2,340,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1151041315,Connect4,6,GAME_OVER,14,1,2,341,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+697067980,Connect4,7,GAME_OVER,16,1,2,342,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1168140970,Connect4,8,GAME_OVER,17,0,2,343,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1491060889,Connect4,9,GAME_OVER,20,1,2,344,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1819802610,Connect4,8,GAME_OVER,18,1,2,345,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-2121274456,Connect4,3,GAME_OVER,7,0,2,346,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+259280696,Connect4,12,GAME_OVER,25,0,2,347,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1706137030,Connect4,4,GAME_OVER,10,1,2,348,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+545138396,Connect4,8,GAME_OVER,18,1,2,349,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1376458976,Connect4,3,GAME_OVER,7,0,2,350,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1195311045,Connect4,3,GAME_OVER,8,1,2,351,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+813477029,Connect4,4,GAME_OVER,10,1,2,352,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1466178614,Connect4,9,GAME_OVER,19,0,2,353,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-118322159,Connect4,6,GAME_OVER,13,0,2,354,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1428166355,Connect4,4,GAME_OVER,9,0,2,355,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1144294523,Connect4,8,GAME_OVER,18,1,2,356,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+2100098225,Connect4,3,GAME_OVER,8,1,2,357,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+23994827,Connect4,7,GAME_OVER,15,0,2,358,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1662792176,Connect4,6,GAME_OVER,14,1,2,359,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+2013120665,Connect4,7,GAME_OVER,16,1,2,360,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1880183632,Connect4,6,GAME_OVER,14,1,2,361,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1377239692,Connect4,5,GAME_OVER,12,1,2,362,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1795532617,Connect4,5,GAME_OVER,12,1,2,363,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1548656463,Connect4,8,GAME_OVER,17,0,2,364,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-653656736,Connect4,6,GAME_OVER,13,0,2,365,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-400394132,Connect4,16,GAME_OVER,33,0,2,366,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1422203009,Connect4,8,GAME_OVER,17,0,2,367,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1113178468,Connect4,8,GAME_OVER,18,1,2,368,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-175367348,Connect4,4,GAME_OVER,10,1,2,369,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1362911089,Connect4,8,GAME_OVER,18,1,2,370,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-347120262,Connect4,6,GAME_OVER,13,0,2,371,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1416514647,Connect4,3,GAME_OVER,8,1,2,372,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1570736736,Connect4,4,GAME_OVER,10,1,2,373,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1532681659,Connect4,5,GAME_OVER,12,1,2,374,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+2038358424,Connect4,6,GAME_OVER,14,1,2,375,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1950377550,Connect4,9,GAME_OVER,20,1,2,376,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-389679841,Connect4,10,GAME_OVER,21,0,2,377,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1652369011,Connect4,6,GAME_OVER,13,0,2,378,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+649728961,Connect4,3,GAME_OVER,8,1,2,379,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1939385821,Connect4,7,GAME_OVER,16,1,2,380,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-765151654,Connect4,4,GAME_OVER,10,1,2,381,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-382843140,Connect4,9,GAME_OVER,20,1,2,382,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1616233144,Connect4,10,GAME_OVER,22,1,2,383,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1825767405,Connect4,4,GAME_OVER,9,0,2,384,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1681345762,Connect4,7,GAME_OVER,16,1,2,385,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1466223696,Connect4,7,GAME_OVER,16,1,2,386,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-898042700,Connect4,3,GAME_OVER,8,1,2,387,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-622095176,Connect4,9,GAME_OVER,20,1,2,388,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1621553363,Connect4,5,GAME_OVER,11,0,2,389,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+2021511387,Connect4,11,GAME_OVER,24,1,2,390,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1677040338,Connect4,10,GAME_OVER,22,1,2,391,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1955989905,Connect4,6,GAME_OVER,14,1,2,392,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1876231119,Connect4,6,GAME_OVER,14,1,2,393,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1294795098,Connect4,4,GAME_OVER,10,1,2,394,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+127372284,Connect4,6,GAME_OVER,14,1,2,395,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-991207967,Connect4,6,GAME_OVER,14,1,2,396,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1049258221,Connect4,9,GAME_OVER,19,0,2,397,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-2039767727,Connect4,12,GAME_OVER,25,0,2,398,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1908179359,Connect4,13,GAME_OVER,28,1,2,399,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+1115136563,Connect4,8,GAME_OVER,17,0,2,400,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1493045323,Connect4,8,GAME_OVER,17,0,2,401,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-394703714,Connect4,3,GAME_OVER,8,1,2,402,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-432712488,Connect4,6,GAME_OVER,14,1,2,403,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+491282519,Connect4,9,GAME_OVER,19,0,2,404,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-884033504,Connect4,5,GAME_OVER,12,1,2,405,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+991772015,Connect4,3,GAME_OVER,8,1,2,406,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-835279488,Connect4,8,GAME_OVER,18,1,2,407,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+288423849,Connect4,8,GAME_OVER,18,1,2,408,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+306462715,Connect4,5,GAME_OVER,11,0,2,409,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+-1595934290,Connect4,9,GAME_OVER,20,1,2,410,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+372545689,Connect4,5,GAME_OVER,12,1,2,411,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1791317608,Connect4,11,GAME_OVER,24,1,2,412,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+594493312,Connect4,5,GAME_OVER,11,0,2,413,RandomPlayer,-1.0,1.0,RMHC,2,RandomPlayer,2,1,1,RMHC,RMHC,RandomPlayer,0
+1375946348,Connect4,10,GAME_OVER,22,1,2,414,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+-1004766817,Connect4,10,GAME_OVER,22,1,2,415,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+714044006,Connect4,8,GAME_OVER,18,1,2,416,RandomPlayer,1.0,-1.0,RMHC,1,RandomPlayer,1,2,2,RMHC,RMHC,RandomPlayer,1
+346665430,Connect4,5,GAME_OVER,12,1,2,417,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+879079583,Connect4,8,GAME_OVER,17,0,2,418,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-619666105,Connect4,7,GAME_OVER,16,1,2,419,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+503938916,Connect4,9,GAME_OVER,20,1,2,420,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-428737539,Connect4,4,GAME_OVER,10,1,2,421,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1745970416,Connect4,4,GAME_OVER,10,1,2,422,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1436161366,Connect4,7,GAME_OVER,16,1,2,423,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1151041315,Connect4,6,GAME_OVER,14,1,2,424,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+697067980,Connect4,17,GAME_OVER,36,1,2,425,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1168140970,Connect4,6,GAME_OVER,14,1,2,426,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1491060889,Connect4,9,GAME_OVER,20,1,2,427,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1819802610,Connect4,11,GAME_OVER,23,0,2,428,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-2121274456,Connect4,7,GAME_OVER,16,1,2,429,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+259280696,Connect4,10,GAME_OVER,22,1,2,430,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1706137030,Connect4,5,GAME_OVER,12,1,2,431,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+545138396,Connect4,3,GAME_OVER,8,1,2,432,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1376458976,Connect4,12,GAME_OVER,26,1,2,433,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1195311045,Connect4,10,GAME_OVER,22,1,2,434,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+813477029,Connect4,11,GAME_OVER,23,0,2,435,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-1466178614,Connect4,9,GAME_OVER,20,1,2,436,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-118322159,Connect4,3,GAME_OVER,8,1,2,437,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1428166355,Connect4,5,GAME_OVER,12,1,2,438,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1144294523,Connect4,5,GAME_OVER,12,1,2,439,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+2100098225,Connect4,7,GAME_OVER,16,1,2,440,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+23994827,Connect4,4,GAME_OVER,10,1,2,441,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1662792176,Connect4,8,GAME_OVER,17,0,2,442,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+2013120665,Connect4,8,GAME_OVER,17,0,2,443,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-1880183632,Connect4,3,GAME_OVER,8,1,2,444,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1377239692,Connect4,6,GAME_OVER,14,1,2,445,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1795532617,Connect4,12,GAME_OVER,26,1,2,446,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1548656463,Connect4,10,GAME_OVER,22,1,2,447,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-653656736,Connect4,4,GAME_OVER,10,1,2,448,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-400394132,Connect4,5,GAME_OVER,12,1,2,449,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1422203009,Connect4,8,GAME_OVER,18,1,2,450,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1113178468,Connect4,15,GAME_OVER,32,1,2,451,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-175367348,Connect4,8,GAME_OVER,18,1,2,452,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1362911089,Connect4,5,GAME_OVER,12,1,2,453,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-347120262,Connect4,11,GAME_OVER,23,0,2,454,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+1416514647,Connect4,4,GAME_OVER,10,1,2,455,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1570736736,Connect4,4,GAME_OVER,10,1,2,456,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1532681659,Connect4,11,GAME_OVER,24,1,2,457,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+2038358424,Connect4,11,GAME_OVER,24,1,2,458,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1950377550,Connect4,5,GAME_OVER,12,1,2,459,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-389679841,Connect4,12,GAME_OVER,26,1,2,460,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1652369011,Connect4,5,GAME_OVER,12,1,2,461,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+649728961,Connect4,5,GAME_OVER,11,0,2,462,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+1939385821,Connect4,10,GAME_OVER,22,1,2,463,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-765151654,Connect4,10,GAME_OVER,22,1,2,464,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-382843140,Connect4,5,GAME_OVER,12,1,2,465,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1616233144,Connect4,6,GAME_OVER,14,1,2,466,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1825767405,Connect4,4,GAME_OVER,10,1,2,467,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1681345762,Connect4,5,GAME_OVER,12,1,2,468,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1466223696,Connect4,6,GAME_OVER,14,1,2,469,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-898042700,Connect4,8,GAME_OVER,18,1,2,470,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-622095176,Connect4,4,GAME_OVER,10,1,2,471,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1621553363,Connect4,5,GAME_OVER,12,1,2,472,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+2021511387,Connect4,10,GAME_OVER,22,1,2,473,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1677040338,Connect4,8,GAME_OVER,18,1,2,474,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1955989905,Connect4,3,GAME_OVER,8,1,2,475,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1876231119,Connect4,6,GAME_OVER,14,1,2,476,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1294795098,Connect4,15,GAME_OVER,32,1,2,477,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+127372284,Connect4,8,GAME_OVER,17,0,2,478,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-991207967,Connect4,7,GAME_OVER,16,1,2,479,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1049258221,Connect4,11,GAME_OVER,24,1,2,480,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-2039767727,Connect4,6,GAME_OVER,14,1,2,481,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1908179359,Connect4,13,GAME_OVER,28,1,2,482,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1115136563,Connect4,5,GAME_OVER,12,1,2,483,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1493045323,Connect4,10,GAME_OVER,22,1,2,484,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-394703714,Connect4,5,GAME_OVER,12,1,2,485,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-432712488,Connect4,14,GAME_OVER,30,1,2,486,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+491282519,Connect4,10,GAME_OVER,22,1,2,487,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-884033504,Connect4,15,GAME_OVER,32,1,2,488,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+991772015,Connect4,11,GAME_OVER,24,1,2,489,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-835279488,Connect4,8,GAME_OVER,18,1,2,490,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+288423849,Connect4,6,GAME_OVER,14,1,2,491,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+306462715,Connect4,6,GAME_OVER,14,1,2,492,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1595934290,Connect4,10,GAME_OVER,21,0,2,493,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+372545689,Connect4,3,GAME_OVER,7,0,2,494,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+-1791317608,Connect4,8,GAME_OVER,18,1,2,495,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+594493312,Connect4,3,GAME_OVER,8,1,2,496,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+1375946348,Connect4,11,GAME_OVER,24,1,2,497,RandomPlayer,1.0,-1.0,OSLA,1,RandomPlayer,1,2,2,OSLA,OSLA,RandomPlayer,1
+-1004766817,Connect4,9,GAME_OVER,19,0,2,498,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+714044006,Connect4,7,GAME_OVER,15,0,2,499,RandomPlayer,-1.0,1.0,OSLA,2,RandomPlayer,2,1,1,OSLA,OSLA,RandomPlayer,0
+346665430,Connect4,6,GAME_OVER,14,1,2,500,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+879079583,Connect4,3,GAME_OVER,8,1,2,501,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-619666105,Connect4,3,GAME_OVER,8,1,2,502,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+503938916,Connect4,3,GAME_OVER,8,1,2,503,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-428737539,Connect4,4,GAME_OVER,10,1,2,504,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1745970416,Connect4,5,GAME_OVER,12,1,2,505,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1436161366,Connect4,5,GAME_OVER,12,1,2,506,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1151041315,Connect4,3,GAME_OVER,8,1,2,507,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+697067980,Connect4,6,GAME_OVER,14,1,2,508,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1168140970,Connect4,3,GAME_OVER,8,1,2,509,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1491060889,Connect4,3,GAME_OVER,8,1,2,510,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1819802610,Connect4,4,GAME_OVER,10,1,2,511,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-2121274456,Connect4,3,GAME_OVER,8,1,2,512,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+259280696,Connect4,3,GAME_OVER,8,1,2,513,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1706137030,Connect4,3,GAME_OVER,8,1,2,514,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+545138396,Connect4,4,GAME_OVER,10,1,2,515,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1376458976,Connect4,4,GAME_OVER,10,1,2,516,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1195311045,Connect4,3,GAME_OVER,8,1,2,517,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+813477029,Connect4,8,GAME_OVER,18,1,2,518,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1466178614,Connect4,7,GAME_OVER,16,1,2,519,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-118322159,Connect4,4,GAME_OVER,10,1,2,520,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1428166355,Connect4,3,GAME_OVER,8,1,2,521,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1144294523,Connect4,5,GAME_OVER,12,1,2,522,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+2100098225,Connect4,3,GAME_OVER,8,1,2,523,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+23994827,Connect4,6,GAME_OVER,14,1,2,524,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1662792176,Connect4,3,GAME_OVER,8,1,2,525,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+2013120665,Connect4,3,GAME_OVER,8,1,2,526,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1880183632,Connect4,4,GAME_OVER,10,1,2,527,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1377239692,Connect4,3,GAME_OVER,8,1,2,528,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1795532617,Connect4,3,GAME_OVER,8,1,2,529,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1548656463,Connect4,4,GAME_OVER,10,1,2,530,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-653656736,Connect4,3,GAME_OVER,8,1,2,531,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-400394132,Connect4,5,GAME_OVER,12,1,2,532,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1422203009,Connect4,3,GAME_OVER,8,1,2,533,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1113178468,Connect4,3,GAME_OVER,8,1,2,534,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-175367348,Connect4,3,GAME_OVER,8,1,2,535,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1362911089,Connect4,3,GAME_OVER,8,1,2,536,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-347120262,Connect4,5,GAME_OVER,12,1,2,537,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1416514647,Connect4,5,GAME_OVER,12,1,2,538,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1570736736,Connect4,9,GAME_OVER,20,1,2,539,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1532681659,Connect4,6,GAME_OVER,14,1,2,540,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+2038358424,Connect4,6,GAME_OVER,14,1,2,541,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1950377550,Connect4,3,GAME_OVER,8,1,2,542,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-389679841,Connect4,5,GAME_OVER,12,1,2,543,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1652369011,Connect4,3,GAME_OVER,8,1,2,544,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+649728961,Connect4,5,GAME_OVER,12,1,2,545,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1939385821,Connect4,3,GAME_OVER,8,1,2,546,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-765151654,Connect4,3,GAME_OVER,8,1,2,547,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-382843140,Connect4,3,GAME_OVER,8,1,2,548,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1616233144,Connect4,3,GAME_OVER,8,1,2,549,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1825767405,Connect4,4,GAME_OVER,10,1,2,550,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1681345762,Connect4,3,GAME_OVER,8,1,2,551,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1466223696,Connect4,3,GAME_OVER,8,1,2,552,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-898042700,Connect4,4,GAME_OVER,10,1,2,553,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-622095176,Connect4,3,GAME_OVER,8,1,2,554,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1621553363,Connect4,4,GAME_OVER,10,1,2,555,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+2021511387,Connect4,3,GAME_OVER,8,1,2,556,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1677040338,Connect4,3,GAME_OVER,8,1,2,557,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1955989905,Connect4,3,GAME_OVER,8,1,2,558,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1876231119,Connect4,5,GAME_OVER,12,1,2,559,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1294795098,Connect4,3,GAME_OVER,8,1,2,560,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+127372284,Connect4,3,GAME_OVER,8,1,2,561,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-991207967,Connect4,3,GAME_OVER,8,1,2,562,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1049258221,Connect4,3,GAME_OVER,8,1,2,563,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-2039767727,Connect4,4,GAME_OVER,10,1,2,564,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1908179359,Connect4,5,GAME_OVER,12,1,2,565,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1115136563,Connect4,3,GAME_OVER,8,1,2,566,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1493045323,Connect4,5,GAME_OVER,12,1,2,567,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-394703714,Connect4,8,GAME_OVER,18,1,2,568,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-432712488,Connect4,3,GAME_OVER,8,1,2,569,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+491282519,Connect4,7,GAME_OVER,16,1,2,570,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-884033504,Connect4,5,GAME_OVER,12,1,2,571,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+991772015,Connect4,3,GAME_OVER,8,1,2,572,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-835279488,Connect4,3,GAME_OVER,8,1,2,573,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+288423849,Connect4,6,GAME_OVER,14,1,2,574,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+306462715,Connect4,3,GAME_OVER,8,1,2,575,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1595934290,Connect4,7,GAME_OVER,16,1,2,576,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+372545689,Connect4,5,GAME_OVER,12,1,2,577,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1791317608,Connect4,7,GAME_OVER,16,1,2,578,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+594493312,Connect4,4,GAME_OVER,10,1,2,579,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+1375946348,Connect4,3,GAME_OVER,8,1,2,580,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+-1004766817,Connect4,4,GAME_OVER,10,1,2,581,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+714044006,Connect4,3,GAME_OVER,8,1,2,582,RMHC,1.0,-1.0,Basic MCTS,1,RMHC,1,2,2,Basic MCTS,Basic MCTS,RMHC,1
+346665430,Connect4,7,GAME_OVER,15,0,2,583,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+879079583,Connect4,7,GAME_OVER,15,0,2,584,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-619666105,Connect4,13,GAME_OVER,28,1,2,585,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+503938916,Connect4,12,GAME_OVER,25,0,2,586,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-428737539,Connect4,4,GAME_OVER,9,0,2,587,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1745970416,Connect4,3,GAME_OVER,7,0,2,588,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1436161366,Connect4,10,GAME_OVER,21,0,2,589,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1151041315,Connect4,3,GAME_OVER,7,0,2,590,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+697067980,Connect4,8,GAME_OVER,17,0,2,591,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1168140970,Connect4,6,GAME_OVER,13,0,2,592,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1491060889,Connect4,3,GAME_OVER,7,0,2,593,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1819802610,Connect4,14,GAME_OVER,29,0,2,594,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-2121274456,Connect4,11,GAME_OVER,23,0,2,595,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+259280696,Connect4,4,GAME_OVER,10,1,2,596,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+1706137030,Connect4,3,GAME_OVER,7,0,2,597,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+545138396,Connect4,5,GAME_OVER,11,0,2,598,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1376458976,Connect4,12,GAME_OVER,25,0,2,599,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1195311045,Connect4,7,GAME_OVER,15,0,2,600,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+813477029,Connect4,3,GAME_OVER,7,0,2,601,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1466178614,Connect4,15,GAME_OVER,31,0,2,602,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-118322159,Connect4,8,GAME_OVER,17,0,2,603,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1428166355,Connect4,6,GAME_OVER,13,0,2,604,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1144294523,Connect4,4,GAME_OVER,9,0,2,605,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+2100098225,Connect4,6,GAME_OVER,13,0,2,606,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+23994827,Connect4,11,GAME_OVER,23,0,2,607,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1662792176,Connect4,9,GAME_OVER,19,0,2,608,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+2013120665,Connect4,9,GAME_OVER,19,0,2,609,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1880183632,Connect4,13,GAME_OVER,27,0,2,610,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1377239692,Connect4,6,GAME_OVER,13,0,2,611,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1795532617,Connect4,14,GAME_OVER,29,0,2,612,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1548656463,Connect4,7,GAME_OVER,15,0,2,613,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-653656736,Connect4,10,GAME_OVER,21,0,2,614,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-400394132,Connect4,4,GAME_OVER,9,0,2,615,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1422203009,Connect4,6,GAME_OVER,13,0,2,616,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1113178468,Connect4,3,GAME_OVER,7,0,2,617,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-175367348,Connect4,10,GAME_OVER,21,0,2,618,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1362911089,Connect4,5,GAME_OVER,11,0,2,619,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-347120262,Connect4,15,GAME_OVER,31,0,2,620,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1416514647,Connect4,8,GAME_OVER,17,0,2,621,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1570736736,Connect4,5,GAME_OVER,11,0,2,622,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1532681659,Connect4,5,GAME_OVER,11,0,2,623,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+2038358424,Connect4,8,GAME_OVER,17,0,2,624,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1950377550,Connect4,11,GAME_OVER,23,0,2,625,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-389679841,Connect4,3,GAME_OVER,7,0,2,626,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1652369011,Connect4,4,GAME_OVER,9,0,2,627,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+649728961,Connect4,7,GAME_OVER,15,0,2,628,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1939385821,Connect4,5,GAME_OVER,11,0,2,629,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-765151654,Connect4,4,GAME_OVER,10,1,2,630,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+-382843140,Connect4,11,GAME_OVER,23,0,2,631,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1616233144,Connect4,3,GAME_OVER,7,0,2,632,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1825767405,Connect4,4,GAME_OVER,10,1,2,633,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+-1681345762,Connect4,10,GAME_OVER,21,0,2,634,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1466223696,Connect4,10,GAME_OVER,22,1,2,635,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+-898042700,Connect4,4,GAME_OVER,9,0,2,636,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-622095176,Connect4,7,GAME_OVER,15,0,2,637,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1621553363,Connect4,7,GAME_OVER,15,0,2,638,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+2021511387,Connect4,6,GAME_OVER,13,0,2,639,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1677040338,Connect4,18,GAME_OVER,37,0,2,640,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1955989905,Connect4,5,GAME_OVER,12,1,2,641,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+-1876231119,Connect4,8,GAME_OVER,17,0,2,642,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1294795098,Connect4,8,GAME_OVER,17,0,2,643,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+127372284,Connect4,8,GAME_OVER,17,0,2,644,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-991207967,Connect4,4,GAME_OVER,9,0,2,645,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1049258221,Connect4,8,GAME_OVER,17,0,2,646,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-2039767727,Connect4,4,GAME_OVER,9,0,2,647,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1908179359,Connect4,7,GAME_OVER,15,0,2,648,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+1115136563,Connect4,3,GAME_OVER,7,0,2,649,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1493045323,Connect4,5,GAME_OVER,11,0,2,650,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-394703714,Connect4,4,GAME_OVER,9,0,2,651,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-432712488,Connect4,4,GAME_OVER,9,0,2,652,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+491282519,Connect4,8,GAME_OVER,17,0,2,653,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-884033504,Connect4,4,GAME_OVER,9,0,2,654,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+991772015,Connect4,7,GAME_OVER,15,0,2,655,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-835279488,Connect4,8,GAME_OVER,17,0,2,656,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+288423849,Connect4,10,GAME_OVER,21,0,2,657,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+306462715,Connect4,13,GAME_OVER,28,1,2,658,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+-1595934290,Connect4,6,GAME_OVER,13,0,2,659,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+372545689,Connect4,3,GAME_OVER,7,0,2,660,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1791317608,Connect4,11,GAME_OVER,23,0,2,661,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+594493312,Connect4,8,GAME_OVER,18,1,2,662,RMHC,1.0,-1.0,RandomPlayer,1,RMHC,1,2,2,RandomPlayer,RandomPlayer,RMHC,1
+1375946348,Connect4,8,GAME_OVER,17,0,2,663,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+-1004766817,Connect4,8,GAME_OVER,17,0,2,664,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+714044006,Connect4,7,GAME_OVER,15,0,2,665,RMHC,-1.0,1.0,RandomPlayer,2,RMHC,2,1,1,RandomPlayer,RandomPlayer,RMHC,0
+346665430,Connect4,8,GAME_OVER,17,0,2,666,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+879079583,Connect4,11,GAME_OVER,23,0,2,667,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-619666105,Connect4,6,GAME_OVER,13,0,2,668,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+503938916,Connect4,7,GAME_OVER,15,0,2,669,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-428737539,Connect4,5,GAME_OVER,11,0,2,670,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1745970416,Connect4,8,GAME_OVER,17,0,2,671,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1436161366,Connect4,8,GAME_OVER,18,1,2,672,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1151041315,Connect4,9,GAME_OVER,19,0,2,673,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+697067980,Connect4,5,GAME_OVER,12,1,2,674,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1168140970,Connect4,11,GAME_OVER,24,1,2,675,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1491060889,Connect4,11,GAME_OVER,23,0,2,676,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1819802610,Connect4,9,GAME_OVER,20,1,2,677,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-2121274456,Connect4,3,GAME_OVER,7,0,2,678,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+259280696,Connect4,3,GAME_OVER,7,0,2,679,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1706137030,Connect4,6,GAME_OVER,14,1,2,680,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+545138396,Connect4,7,GAME_OVER,16,1,2,681,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1376458976,Connect4,4,GAME_OVER,10,1,2,682,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1195311045,Connect4,6,GAME_OVER,13,0,2,683,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+813477029,Connect4,4,GAME_OVER,10,1,2,684,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1466178614,Connect4,5,GAME_OVER,11,0,2,685,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-118322159,Connect4,4,GAME_OVER,9,0,2,686,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1428166355,Connect4,9,GAME_OVER,20,1,2,687,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1144294523,Connect4,9,GAME_OVER,19,0,2,688,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+2100098225,Connect4,3,GAME_OVER,8,1,2,689,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+23994827,Connect4,6,GAME_OVER,14,1,2,690,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1662792176,Connect4,6,GAME_OVER,13,0,2,691,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+2013120665,Connect4,7,GAME_OVER,15,0,2,692,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1880183632,Connect4,5,GAME_OVER,12,1,2,693,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1377239692,Connect4,8,GAME_OVER,17,0,2,694,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1795532617,Connect4,4,GAME_OVER,9,0,2,695,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1548656463,Connect4,8,GAME_OVER,17,0,2,696,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-653656736,Connect4,6,GAME_OVER,14,1,2,697,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-400394132,Connect4,5,GAME_OVER,12,1,2,698,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1422203009,Connect4,3,GAME_OVER,8,1,2,699,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1113178468,Connect4,5,GAME_OVER,11,0,2,700,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-175367348,Connect4,5,GAME_OVER,11,0,2,701,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1362911089,Connect4,12,GAME_OVER,26,1,2,702,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-347120262,Connect4,6,GAME_OVER,13,0,2,703,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1416514647,Connect4,5,GAME_OVER,11,0,2,704,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1570736736,Connect4,10,GAME_OVER,22,1,2,705,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1532681659,Connect4,9,GAME_OVER,20,1,2,706,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+2038358424,Connect4,6,GAME_OVER,14,1,2,707,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1950377550,Connect4,3,GAME_OVER,7,0,2,708,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-389679841,Connect4,5,GAME_OVER,12,1,2,709,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1652369011,Connect4,4,GAME_OVER,9,0,2,710,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+649728961,Connect4,4,GAME_OVER,9,0,2,711,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1939385821,Connect4,8,GAME_OVER,18,1,2,712,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-765151654,Connect4,5,GAME_OVER,11,0,2,713,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-382843140,Connect4,5,GAME_OVER,12,1,2,714,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1616233144,Connect4,4,GAME_OVER,10,1,2,715,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1825767405,Connect4,7,GAME_OVER,15,0,2,716,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1681345762,Connect4,3,GAME_OVER,7,0,2,717,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1466223696,Connect4,5,GAME_OVER,12,1,2,718,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-898042700,Connect4,8,GAME_OVER,18,1,2,719,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-622095176,Connect4,3,GAME_OVER,7,0,2,720,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1621553363,Connect4,3,GAME_OVER,7,0,2,721,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+2021511387,Connect4,5,GAME_OVER,11,0,2,722,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1677040338,Connect4,5,GAME_OVER,11,0,2,723,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+1955989905,Connect4,7,GAME_OVER,16,1,2,724,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1876231119,Connect4,5,GAME_OVER,12,1,2,725,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1294795098,Connect4,4,GAME_OVER,9,0,2,726,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+127372284,Connect4,6,GAME_OVER,13,0,2,727,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-991207967,Connect4,7,GAME_OVER,16,1,2,728,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1049258221,Connect4,9,GAME_OVER,19,0,2,729,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-2039767727,Connect4,8,GAME_OVER,18,1,2,730,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1908179359,Connect4,3,GAME_OVER,8,1,2,731,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1115136563,Connect4,5,GAME_OVER,11,0,2,732,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1493045323,Connect4,3,GAME_OVER,7,0,2,733,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-394703714,Connect4,7,GAME_OVER,16,1,2,734,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-432712488,Connect4,4,GAME_OVER,9,0,2,735,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+491282519,Connect4,10,GAME_OVER,21,0,2,736,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-884033504,Connect4,12,GAME_OVER,25,0,2,737,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+991772015,Connect4,3,GAME_OVER,7,0,2,738,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-835279488,Connect4,6,GAME_OVER,13,0,2,739,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+288423849,Connect4,5,GAME_OVER,12,1,2,740,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+306462715,Connect4,3,GAME_OVER,7,0,2,741,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1595934290,Connect4,5,GAME_OVER,11,0,2,742,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+372545689,Connect4,7,GAME_OVER,16,1,2,743,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+-1791317608,Connect4,11,GAME_OVER,24,1,2,744,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+594493312,Connect4,8,GAME_OVER,18,1,2,745,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+1375946348,Connect4,9,GAME_OVER,19,0,2,746,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+-1004766817,Connect4,9,GAME_OVER,20,1,2,747,RMHC,1.0,-1.0,OSLA,1,RMHC,1,2,2,OSLA,OSLA,RMHC,1
+714044006,Connect4,7,GAME_OVER,15,0,2,748,RMHC,-1.0,1.0,OSLA,2,RMHC,2,1,1,OSLA,OSLA,RMHC,0
+346665430,Connect4,4,GAME_OVER,10,1,2,749,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+879079583,Connect4,3,GAME_OVER,8,1,2,750,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-619666105,Connect4,4,GAME_OVER,10,1,2,751,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+503938916,Connect4,7,GAME_OVER,16,1,2,752,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-428737539,Connect4,4,GAME_OVER,10,1,2,753,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1745970416,Connect4,7,GAME_OVER,16,1,2,754,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1436161366,Connect4,7,GAME_OVER,16,1,2,755,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1151041315,Connect4,4,GAME_OVER,10,1,2,756,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+697067980,Connect4,6,GAME_OVER,14,1,2,757,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1168140970,Connect4,6,GAME_OVER,14,1,2,758,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1491060889,Connect4,5,GAME_OVER,12,1,2,759,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1819802610,Connect4,3,GAME_OVER,8,1,2,760,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-2121274456,Connect4,5,GAME_OVER,12,1,2,761,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+259280696,Connect4,3,GAME_OVER,8,1,2,762,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1706137030,Connect4,4,GAME_OVER,10,1,2,763,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+545138396,Connect4,3,GAME_OVER,8,1,2,764,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1376458976,Connect4,3,GAME_OVER,8,1,2,765,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1195311045,Connect4,5,GAME_OVER,12,1,2,766,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+813477029,Connect4,8,GAME_OVER,18,1,2,767,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1466178614,Connect4,3,GAME_OVER,8,1,2,768,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-118322159,Connect4,3,GAME_OVER,8,1,2,769,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1428166355,Connect4,3,GAME_OVER,8,1,2,770,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1144294523,Connect4,3,GAME_OVER,8,1,2,771,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+2100098225,Connect4,3,GAME_OVER,8,1,2,772,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+23994827,Connect4,3,GAME_OVER,8,1,2,773,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1662792176,Connect4,4,GAME_OVER,10,1,2,774,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+2013120665,Connect4,6,GAME_OVER,14,1,2,775,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1880183632,Connect4,5,GAME_OVER,12,1,2,776,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1377239692,Connect4,4,GAME_OVER,10,1,2,777,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1795532617,Connect4,8,GAME_OVER,18,1,2,778,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1548656463,Connect4,3,GAME_OVER,8,1,2,779,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-653656736,Connect4,3,GAME_OVER,8,1,2,780,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-400394132,Connect4,5,GAME_OVER,12,1,2,781,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1422203009,Connect4,13,GAME_OVER,28,1,2,782,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1113178468,Connect4,6,GAME_OVER,14,1,2,783,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-175367348,Connect4,6,GAME_OVER,14,1,2,784,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1362911089,Connect4,5,GAME_OVER,12,1,2,785,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-347120262,Connect4,3,GAME_OVER,8,1,2,786,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1416514647,Connect4,5,GAME_OVER,12,1,2,787,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1570736736,Connect4,9,GAME_OVER,20,1,2,788,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1532681659,Connect4,3,GAME_OVER,8,1,2,789,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+2038358424,Connect4,6,GAME_OVER,14,1,2,790,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1950377550,Connect4,4,GAME_OVER,10,1,2,791,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-389679841,Connect4,4,GAME_OVER,10,1,2,792,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1652369011,Connect4,3,GAME_OVER,8,1,2,793,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+649728961,Connect4,4,GAME_OVER,10,1,2,794,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1939385821,Connect4,3,GAME_OVER,8,1,2,795,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-765151654,Connect4,5,GAME_OVER,12,1,2,796,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-382843140,Connect4,4,GAME_OVER,10,1,2,797,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1616233144,Connect4,5,GAME_OVER,12,1,2,798,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1825767405,Connect4,3,GAME_OVER,8,1,2,799,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1681345762,Connect4,7,GAME_OVER,16,1,2,800,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1466223696,Connect4,4,GAME_OVER,10,1,2,801,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-898042700,Connect4,3,GAME_OVER,8,1,2,802,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-622095176,Connect4,4,GAME_OVER,10,1,2,803,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1621553363,Connect4,6,GAME_OVER,14,1,2,804,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+2021511387,Connect4,5,GAME_OVER,12,1,2,805,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1677040338,Connect4,3,GAME_OVER,8,1,2,806,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1955989905,Connect4,4,GAME_OVER,10,1,2,807,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1876231119,Connect4,5,GAME_OVER,12,1,2,808,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1294795098,Connect4,5,GAME_OVER,12,1,2,809,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+127372284,Connect4,3,GAME_OVER,8,1,2,810,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-991207967,Connect4,3,GAME_OVER,8,1,2,811,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1049258221,Connect4,3,GAME_OVER,8,1,2,812,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-2039767727,Connect4,5,GAME_OVER,12,1,2,813,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1908179359,Connect4,3,GAME_OVER,8,1,2,814,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1115136563,Connect4,6,GAME_OVER,14,1,2,815,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1493045323,Connect4,4,GAME_OVER,10,1,2,816,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-394703714,Connect4,3,GAME_OVER,8,1,2,817,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-432712488,Connect4,3,GAME_OVER,8,1,2,818,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+491282519,Connect4,5,GAME_OVER,12,1,2,819,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-884033504,Connect4,8,GAME_OVER,18,1,2,820,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+991772015,Connect4,3,GAME_OVER,8,1,2,821,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-835279488,Connect4,6,GAME_OVER,14,1,2,822,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+288423849,Connect4,4,GAME_OVER,10,1,2,823,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+306462715,Connect4,3,GAME_OVER,8,1,2,824,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1595934290,Connect4,4,GAME_OVER,10,1,2,825,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+372545689,Connect4,3,GAME_OVER,8,1,2,826,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1791317608,Connect4,6,GAME_OVER,14,1,2,827,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+594493312,Connect4,3,GAME_OVER,8,1,2,828,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+1375946348,Connect4,3,GAME_OVER,8,1,2,829,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+-1004766817,Connect4,5,GAME_OVER,12,1,2,830,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+714044006,Connect4,4,GAME_OVER,10,1,2,831,OSLA,1.0,-1.0,Basic MCTS,1,OSLA,1,2,2,Basic MCTS,Basic MCTS,OSLA,1
+346665430,Connect4,7,GAME_OVER,15,0,2,832,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+879079583,Connect4,4,GAME_OVER,10,1,2,833,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-619666105,Connect4,6,GAME_OVER,13,0,2,834,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+503938916,Connect4,12,GAME_OVER,25,0,2,835,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-428737539,Connect4,3,GAME_OVER,7,0,2,836,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1745970416,Connect4,12,GAME_OVER,25,0,2,837,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1436161366,Connect4,12,GAME_OVER,25,0,2,838,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1151041315,Connect4,7,GAME_OVER,15,0,2,839,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+697067980,Connect4,4,GAME_OVER,9,0,2,840,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1168140970,Connect4,5,GAME_OVER,11,0,2,841,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1491060889,Connect4,13,GAME_OVER,27,0,2,842,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1819802610,Connect4,13,GAME_OVER,27,0,2,843,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-2121274456,Connect4,7,GAME_OVER,15,0,2,844,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+259280696,Connect4,11,GAME_OVER,23,0,2,845,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1706137030,Connect4,13,GAME_OVER,27,0,2,846,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+545138396,Connect4,10,GAME_OVER,21,0,2,847,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1376458976,Connect4,4,GAME_OVER,9,0,2,848,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1195311045,Connect4,14,GAME_OVER,29,0,2,849,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+813477029,Connect4,4,GAME_OVER,10,1,2,850,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1466178614,Connect4,4,GAME_OVER,9,0,2,851,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-118322159,Connect4,15,GAME_OVER,32,1,2,852,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1428166355,Connect4,8,GAME_OVER,18,1,2,853,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+1144294523,Connect4,10,GAME_OVER,22,1,2,854,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+2100098225,Connect4,11,GAME_OVER,23,0,2,855,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+23994827,Connect4,12,GAME_OVER,25,0,2,856,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1662792176,Connect4,8,GAME_OVER,17,0,2,857,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+2013120665,Connect4,11,GAME_OVER,23,0,2,858,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1880183632,Connect4,10,GAME_OVER,21,0,2,859,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1377239692,Connect4,5,GAME_OVER,11,0,2,860,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1795532617,Connect4,5,GAME_OVER,11,0,2,861,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1548656463,Connect4,9,GAME_OVER,19,0,2,862,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-653656736,Connect4,9,GAME_OVER,20,1,2,863,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-400394132,Connect4,3,GAME_OVER,7,0,2,864,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1422203009,Connect4,10,GAME_OVER,21,0,2,865,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1113178468,Connect4,5,GAME_OVER,11,0,2,866,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-175367348,Connect4,9,GAME_OVER,19,0,2,867,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1362911089,Connect4,9,GAME_OVER,19,0,2,868,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-347120262,Connect4,3,GAME_OVER,7,0,2,869,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1416514647,Connect4,5,GAME_OVER,11,0,2,870,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1570736736,Connect4,10,GAME_OVER,22,1,2,871,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1532681659,Connect4,10,GAME_OVER,21,0,2,872,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+2038358424,Connect4,8,GAME_OVER,18,1,2,873,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+1950377550,Connect4,7,GAME_OVER,15,0,2,874,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-389679841,Connect4,7,GAME_OVER,15,0,2,875,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1652369011,Connect4,3,GAME_OVER,7,0,2,876,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+649728961,Connect4,7,GAME_OVER,15,0,2,877,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1939385821,Connect4,5,GAME_OVER,11,0,2,878,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-765151654,Connect4,5,GAME_OVER,11,0,2,879,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-382843140,Connect4,8,GAME_OVER,18,1,2,880,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+1616233144,Connect4,5,GAME_OVER,12,1,2,881,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1825767405,Connect4,3,GAME_OVER,7,0,2,882,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1681345762,Connect4,3,GAME_OVER,7,0,2,883,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1466223696,Connect4,3,GAME_OVER,7,0,2,884,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-898042700,Connect4,7,GAME_OVER,15,0,2,885,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-622095176,Connect4,8,GAME_OVER,17,0,2,886,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1621553363,Connect4,4,GAME_OVER,10,1,2,887,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+2021511387,Connect4,12,GAME_OVER,25,0,2,888,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1677040338,Connect4,4,GAME_OVER,10,1,2,889,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+1955989905,Connect4,8,GAME_OVER,18,1,2,890,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1876231119,Connect4,10,GAME_OVER,21,0,2,891,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1294795098,Connect4,4,GAME_OVER,9,0,2,892,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+127372284,Connect4,7,GAME_OVER,15,0,2,893,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-991207967,Connect4,6,GAME_OVER,13,0,2,894,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1049258221,Connect4,14,GAME_OVER,30,1,2,895,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-2039767727,Connect4,12,GAME_OVER,26,1,2,896,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+1908179359,Connect4,5,GAME_OVER,11,0,2,897,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1115136563,Connect4,7,GAME_OVER,15,0,2,898,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1493045323,Connect4,8,GAME_OVER,17,0,2,899,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-394703714,Connect4,6,GAME_OVER,14,1,2,900,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-432712488,Connect4,10,GAME_OVER,21,0,2,901,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+491282519,Connect4,9,GAME_OVER,19,0,2,902,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-884033504,Connect4,12,GAME_OVER,26,1,2,903,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+991772015,Connect4,3,GAME_OVER,7,0,2,904,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-835279488,Connect4,5,GAME_OVER,11,0,2,905,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+288423849,Connect4,6,GAME_OVER,14,1,2,906,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+306462715,Connect4,5,GAME_OVER,11,0,2,907,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1595934290,Connect4,8,GAME_OVER,17,0,2,908,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+372545689,Connect4,9,GAME_OVER,19,0,2,909,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+-1791317608,Connect4,6,GAME_OVER,13,0,2,910,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+594493312,Connect4,5,GAME_OVER,11,0,2,911,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+1375946348,Connect4,9,GAME_OVER,20,1,2,912,OSLA,1.0,-1.0,RandomPlayer,1,OSLA,1,2,2,RandomPlayer,RandomPlayer,OSLA,1
+-1004766817,Connect4,3,GAME_OVER,7,0,2,913,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+714044006,Connect4,3,GAME_OVER,7,0,2,914,OSLA,-1.0,1.0,RandomPlayer,2,OSLA,2,1,1,RandomPlayer,RandomPlayer,OSLA,0
+346665430,Connect4,3,GAME_OVER,7,0,2,915,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+879079583,Connect4,6,GAME_OVER,13,0,2,916,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-619666105,Connect4,3,GAME_OVER,7,0,2,917,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+503938916,Connect4,7,GAME_OVER,15,0,2,918,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-428737539,Connect4,3,GAME_OVER,7,0,2,919,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1745970416,Connect4,3,GAME_OVER,7,0,2,920,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1436161366,Connect4,5,GAME_OVER,11,0,2,921,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1151041315,Connect4,7,GAME_OVER,15,0,2,922,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+697067980,Connect4,7,GAME_OVER,16,1,2,923,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+1168140970,Connect4,3,GAME_OVER,7,0,2,924,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1491060889,Connect4,3,GAME_OVER,7,0,2,925,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1819802610,Connect4,11,GAME_OVER,23,0,2,926,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-2121274456,Connect4,6,GAME_OVER,14,1,2,927,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+259280696,Connect4,11,GAME_OVER,23,0,2,928,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1706137030,Connect4,7,GAME_OVER,16,1,2,929,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+545138396,Connect4,8,GAME_OVER,17,0,2,930,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1376458976,Connect4,4,GAME_OVER,9,0,2,931,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1195311045,Connect4,3,GAME_OVER,7,0,2,932,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+813477029,Connect4,6,GAME_OVER,13,0,2,933,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1466178614,Connect4,8,GAME_OVER,18,1,2,934,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-118322159,Connect4,8,GAME_OVER,17,0,2,935,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1428166355,Connect4,6,GAME_OVER,14,1,2,936,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+1144294523,Connect4,6,GAME_OVER,13,0,2,937,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+2100098225,Connect4,9,GAME_OVER,19,0,2,938,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+23994827,Connect4,5,GAME_OVER,12,1,2,939,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+1662792176,Connect4,6,GAME_OVER,13,0,2,940,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+2013120665,Connect4,8,GAME_OVER,18,1,2,941,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1880183632,Connect4,6,GAME_OVER,14,1,2,942,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1377239692,Connect4,6,GAME_OVER,14,1,2,943,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+1795532617,Connect4,10,GAME_OVER,21,0,2,944,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1548656463,Connect4,5,GAME_OVER,11,0,2,945,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-653656736,Connect4,6,GAME_OVER,14,1,2,946,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-400394132,Connect4,7,GAME_OVER,15,0,2,947,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1422203009,Connect4,4,GAME_OVER,10,1,2,948,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1113178468,Connect4,6,GAME_OVER,14,1,2,949,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-175367348,Connect4,7,GAME_OVER,15,0,2,950,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1362911089,Connect4,7,GAME_OVER,16,1,2,951,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-347120262,Connect4,6,GAME_OVER,13,0,2,952,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1416514647,Connect4,8,GAME_OVER,18,1,2,953,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1570736736,Connect4,8,GAME_OVER,18,1,2,954,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1532681659,Connect4,6,GAME_OVER,14,1,2,955,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+2038358424,Connect4,7,GAME_OVER,15,0,2,956,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1950377550,Connect4,11,GAME_OVER,23,0,2,957,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-389679841,Connect4,4,GAME_OVER,10,1,2,958,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1652369011,Connect4,7,GAME_OVER,15,0,2,959,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+649728961,Connect4,15,GAME_OVER,31,0,2,960,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1939385821,Connect4,4,GAME_OVER,10,1,2,961,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-765151654,Connect4,5,GAME_OVER,12,1,2,962,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-382843140,Connect4,5,GAME_OVER,11,0,2,963,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1616233144,Connect4,4,GAME_OVER,10,1,2,964,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1825767405,Connect4,3,GAME_OVER,8,1,2,965,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1681345762,Connect4,6,GAME_OVER,13,0,2,966,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1466223696,Connect4,7,GAME_OVER,16,1,2,967,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-898042700,Connect4,6,GAME_OVER,13,0,2,968,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-622095176,Connect4,4,GAME_OVER,9,0,2,969,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1621553363,Connect4,6,GAME_OVER,13,0,2,970,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+2021511387,Connect4,5,GAME_OVER,11,0,2,971,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1677040338,Connect4,5,GAME_OVER,12,1,2,972,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+1955989905,Connect4,6,GAME_OVER,13,0,2,973,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1876231119,Connect4,7,GAME_OVER,16,1,2,974,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1294795098,Connect4,8,GAME_OVER,17,0,2,975,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+127372284,Connect4,4,GAME_OVER,9,0,2,976,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-991207967,Connect4,9,GAME_OVER,19,0,2,977,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1049258221,Connect4,7,GAME_OVER,16,1,2,978,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-2039767727,Connect4,8,GAME_OVER,17,0,2,979,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1908179359,Connect4,5,GAME_OVER,11,0,2,980,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1115136563,Connect4,4,GAME_OVER,9,0,2,981,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1493045323,Connect4,5,GAME_OVER,11,0,2,982,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-394703714,Connect4,11,GAME_OVER,23,0,2,983,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-432712488,Connect4,3,GAME_OVER,8,1,2,984,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+491282519,Connect4,5,GAME_OVER,12,1,2,985,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-884033504,Connect4,8,GAME_OVER,17,0,2,986,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+991772015,Connect4,11,GAME_OVER,23,0,2,987,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-835279488,Connect4,8,GAME_OVER,18,1,2,988,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+288423849,Connect4,4,GAME_OVER,10,1,2,989,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+306462715,Connect4,4,GAME_OVER,10,1,2,990,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+-1595934290,Connect4,5,GAME_OVER,11,0,2,991,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+372545689,Connect4,5,GAME_OVER,11,0,2,992,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1791317608,Connect4,8,GAME_OVER,18,1,2,993,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+594493312,Connect4,5,GAME_OVER,11,0,2,994,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+1375946348,Connect4,3,GAME_OVER,7,0,2,995,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
+-1004766817,Connect4,11,GAME_OVER,24,1,2,996,OSLA,1.0,-1.0,RMHC,1,OSLA,1,2,2,RMHC,RMHC,OSLA,1
+714044006,Connect4,9,GAME_OVER,19,0,2,997,OSLA,-1.0,1.0,RMHC,2,OSLA,2,1,1,RMHC,RMHC,OSLA,0
