@@ -14,6 +14,7 @@ import gui.AbstractGUIManager;
 import gui.GUI;
 import gui.GamePanel;
 import players.basicMCTS.BasicMCTSPlayer;
+import players.basicMCTS.EnhancedSushiGoMCTS;
 import players.human.ActionController;
 import players.human.HumanConsolePlayer;
 import players.human.HumanGUIPlayer;
@@ -705,8 +706,9 @@ public class Game {
         /* Set up players for the game */
         ArrayList<AbstractPlayer> players = new ArrayList<>();
         players.add(new RandomPlayer());
-        players.add(new RandomPlayer());
-    //    players.add(new BasicMCTSPlayer());
+       // players.add(new RandomPlayer());
+        players.add(new EnhancedSushiGoMCTS());
+        //players.add(new BasicMCTSPlayer());
 //        players.add(new OSLAPlayer());
 //        players.add(new RMHCPlayer());
         // players.add(new HumanGUIPlayer(ac));

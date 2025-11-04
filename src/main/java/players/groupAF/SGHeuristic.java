@@ -9,12 +9,12 @@ import games.sushigo.cards.SGCard.SGCardType;
 public class SGHeuristic implements IStateHeuristic {
 
     /// Weighting factors (TUNE THESE via experiments)
-    private static final double CURRENT_SCORE_WEIGHT = 0.57;
-    private static final double POTENTIAL_SCORE_WEIGHT = 0.18;
+    private static final double CURRENT_SCORE_WEIGHT = 0.45;
+    private static final double POTENTIAL_SCORE_WEIGHT = 0.30;
     private static final double OPPONENT_INTERFERENCE_WEIGHT = 0.15;
     private static final double PUDDING_STRATEGY_WEIGHT = 0.10;
 
-    private boolean DEBUG = true;
+    private boolean DEBUG = false;
 
     @Override
     public double evaluateState(AbstractGameState gs, int playerId) {

@@ -1,0 +1,31 @@
+Game: SushiGo, Players: 4, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 4
+agent_basicmcts got 3.00 points. agent_basicmcts won 3.1% of the 96 games of the tournament. agent_basicmcts won 3.1% of the 96 games it played during the tournament.
+agent_basicmcts got a mean score of 35.24.
+agent_basicmcts won 3.1% of the 96 games against mcts.
+agent_basicmcts won 3.1% of the 96 games against rhea.
+agent_basicmcts won 3.1% of the 96 games against rmhc.
+
+mcts got 84.00 points. mcts won 87.5% of the 96 games of the tournament. mcts won 87.5% of the 96 games it played during the tournament.
+mcts got a mean score of 48.74.
+mcts won 87.5% of the 96 games against agent_basicmcts.
+mcts won 87.5% of the 96 games against rhea.
+mcts won 87.5% of the 96 games against rmhc.
+
+rhea got 9.00 points. rhea won 9.4% of the 96 games of the tournament. rhea won 9.4% of the 96 games it played during the tournament.
+rhea got a mean score of 37.28.
+rhea won 9.4% of the 96 games against agent_basicmcts.
+rhea won 9.4% of the 96 games against mcts.
+rhea won 9.4% of the 96 games against rmhc.
+
+rmhc got 0.00 points. rmhc won 0.0% of the 96 games of the tournament. rmhc won 0.0% of the 96 games it played during the tournament.
+rmhc got a mean score of 23.89.
+rmhc won 0.0% of the 96 games against agent_basicmcts.
+rmhc won 0.0% of the 96 games against mcts.
+rmhc won 0.0% of the 96 games against rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 0.88 +/- 0.034	Mean Ordinal 1.16 +/- 0.04
+rhea: Win rate 0.09 +/- 0.030	Mean Ordinal 2.38 +/- 0.07
+agent_basicmcts: Win rate 0.03 +/- 0.018	Mean Ordinal 2.64 +/- 0.07
+rmhc: Win rate 0.00 +/- 0.000	Mean Ordinal 3.83 +/- 0.05
+

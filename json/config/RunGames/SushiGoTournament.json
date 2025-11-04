@@ -1,11 +1,11 @@
 {
   "game" : "SushiGo",
-  "nPlayers" : 4,
+  "nPlayers" : 3,
   "mode" : "exhaustive",
-  "matchups" : 100,
+  "matchups" : 250,
   "verbose" : false,
   "seed" : 740234,
   "listener" : "json/listeners/basiclistener.json",
-  "destDir" : "logs4",
+  "destDir" : "logs9",
   "playerDirectory" : "json/players/groupAF/tournamentPlayers"
 }
