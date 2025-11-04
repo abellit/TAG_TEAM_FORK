@@ -1,5 +1,5 @@
 {
-  "class" : "players.basicMCTS.BasicMCTSParams",
+  "class" : "players.groupAF.EnhancedSushiGoMCTS",
   "K" : 0.7,
   "rolloutLength" : 3,
   "maxTreeDepth" : 30,

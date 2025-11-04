@@ -2,7 +2,7 @@
   "game" : "SushiGo",
   "nPlayers" : 3,
   "mode" : "exhaustive",
-  "matchups" : 250,
+  "matchups" : 100,
   "verbose" : false,
   "seed" : 740234,
   "listener" : "json/listeners/basiclistener.json",

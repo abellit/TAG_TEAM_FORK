@@ -1,4 +1,4 @@
-package players.basicMCTS;
+package players.groupAF;
 
 
 import core.AbstractGameState;
