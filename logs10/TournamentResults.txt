@@ -1,0 +1,21 @@
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 246, GamesPerMatchup: 41
+agent_basicmcts got 14.00 points. agent_basicmcts won 5.7% of the 246 games of the tournament. agent_basicmcts won 5.7% of the 246 games it played during the tournament.
+agent_basicmcts got a mean score of 38.83.
+agent_basicmcts won 5.7% of the 246 games against mcts.
+agent_basicmcts won 5.7% of the 246 games against rhea.
+
+mcts got 206.50 points. mcts won 83.7% of the 246 games of the tournament. mcts won 83.7% of the 246 games it played during the tournament.
+mcts got a mean score of 50.83.
+mcts won 83.7% of the 246 games against agent_basicmcts.
+mcts won 83.7% of the 246 games against rhea.
+
+rhea got 25.50 points. rhea won 10.2% of the 246 games of the tournament. rhea won 10.2% of the 246 games it played during the tournament.
+rhea got a mean score of 39.92.
+rhea won 10.2% of the 246 games against agent_basicmcts.
+rhea won 10.2% of the 246 games against mcts.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 0.84 +/- 0.023	Mean Ordinal 1.18 +/- 0.03
+rhea: Win rate 0.10 +/- 0.019	Mean Ordinal 2.33 +/- 0.04
+agent_basicmcts: Win rate 0.06 +/- 0.015	Mean Ordinal 2.48 +/- 0.04
+
