@@ -1,0 +1,26 @@
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 500, GamesPerMatchup: 250
+agent_basicmcts got 484.00 points. agent_basicmcts won 96.8% of the 500 games of the tournament. agent_basicmcts won 96.8% of the 500 games it played during the tournament.
+agent_basicmcts got a mean score of 54.56.
+agent_basicmcts won 96.8% of the 500 games against basicmcts.
+
+basicmcts got 16.00 points. basicmcts won 3.2% of the 500 games of the tournament. basicmcts won 3.2% of the 500 games it played during the tournament.
+basicmcts got a mean score of 38.61.
+basicmcts won 3.2% of the 500 games against agent_basicmcts.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+agent_basicmcts: Win rate 0.97 +/- 0.008	Mean Ordinal 1.03 +/- 0.01
+basicmcts: Win rate 0.03 +/- 0.008	Mean Ordinal 1.97 +/- 0.01
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 500, GamesPerMatchup: 250
+agent_basicmcts got 425.00 points. agent_basicmcts won 84.6% of the 500 games of the tournament. agent_basicmcts won 84.6% of the 500 games it played during the tournament.
+agent_basicmcts got a mean score of 52.28.
+agent_basicmcts won 84.6% of the 500 games against basicmcts.
+
+basicmcts got 75.00 points. basicmcts won 14.6% of the 500 games of the tournament. basicmcts won 14.6% of the 500 games it played during the tournament.
+basicmcts got a mean score of 41.14.
+basicmcts won 14.6% of the 500 games against agent_basicmcts.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+agent_basicmcts: Win rate 0.85 +/- 0.016	Mean Ordinal 1.15 +/- 0.02
+basicmcts: Win rate 0.15 +/- 0.016	Mean Ordinal 1.85 +/- 0.02
+

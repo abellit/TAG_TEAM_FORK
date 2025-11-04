@@ -1,0 +1,59 @@
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.083	FirstAction
+	0.882	agent_osla
+	0.035	agent_random
+
+Transition matrix for alpha = 10.0
+0.073	0.922	0.005	
+0.071	0.890	0.039	
+0.400	0.575	0.025	
+B matrix for alpha = 10.0
+1.026	1.187	0.572	
+1.187	2.772	0.594	
+0.572	0.594	0.493	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.083	FirstAction
+	0.882	agent_osla
+	0.035	agent_random
+
+Transition matrix for alpha = 10.0
+0.073	0.922	0.005	
+0.071	0.890	0.039	
+0.400	0.575	0.025	
+B matrix for alpha = 10.0
+1.026	1.187	0.572	
+1.187	2.772	0.594	
+0.572	0.594	0.493	
+FirstAction got 336.00 points. FirstAction won 33.1% of the 996 games of the tournament. FirstAction won 49.7% of the 664 games it played during the tournament.
+FirstAction got a mean score of 0.01.
+FirstAction won 37.3% of the 332 games against agent_osla.
+FirstAction won 62.0% of the 332 games against agent_random.
+
+agent_osla got 426.00 points. agent_osla won 42.6% of the 996 games of the tournament. agent_osla won 63.9% of the 664 games it played during the tournament.
+agent_osla got a mean score of 0.28.
+agent_osla won 62.7% of the 332 games against FirstAction.
+agent_osla won 65.1% of the 332 games against agent_random.
+
+agent_random got 234.00 points. agent_random won 22.7% of the 996 games of the tournament. agent_random won 34.0% of the 664 games it played during the tournament.
+agent_random got a mean score of -0.30.
+agent_random won 34.3% of the 332 games against FirstAction.
+agent_random won 33.7% of the 332 games against agent_osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+agent_osla: Win rate 0.64 +/- 0.019	Mean Ordinal 1.36 +/- 0.02
+FirstAction: Win rate 0.51 +/- 0.019	Mean Ordinal 1.48 +/- 0.02
+agent_random: Win rate 0.35 +/- 0.018	Mean Ordinal 1.64 +/- 0.02
+
+Alpha-rank by Win Rate
+	agent_osla                    	0.88
+	FirstAction                   	0.08
+	agent_random                  	0.04
+
+Alpha-rank by Ordinal Position
+	agent_osla                    	0.88
+	FirstAction                   	0.08
+	agent_random                  	0.04
+

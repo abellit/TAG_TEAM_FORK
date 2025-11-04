@@ -1,0 +1,31 @@
+Game: SushiGo, Players: 4, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 4
+agent_basicmcts got 25.00 points. agent_basicmcts won 26.0% of the 96 games of the tournament. agent_basicmcts won 26.0% of the 96 games it played during the tournament.
+agent_basicmcts got a mean score of 36.27.
+agent_basicmcts won 26.0% of the 96 games against agent_osla.
+agent_basicmcts won 26.0% of the 96 games against agent_random.
+agent_basicmcts won 26.0% of the 96 games against rhea.
+
+agent_osla got 8.00 points. agent_osla won 8.3% of the 96 games of the tournament. agent_osla won 8.3% of the 96 games it played during the tournament.
+agent_osla got a mean score of 28.85.
+agent_osla won 8.3% of the 96 games against agent_basicmcts.
+agent_osla won 8.3% of the 96 games against agent_random.
+agent_osla won 8.3% of the 96 games against rhea.
+
+agent_random got 5.00 points. agent_random won 4.2% of the 96 games of the tournament. agent_random won 4.2% of the 96 games it played during the tournament.
+agent_random got a mean score of 27.71.
+agent_random won 4.2% of the 96 games against agent_basicmcts.
+agent_random won 4.2% of the 96 games against agent_osla.
+agent_random won 4.2% of the 96 games against rhea.
+
+rhea got 58.00 points. rhea won 59.4% of the 96 games of the tournament. rhea won 59.4% of the 96 games it played during the tournament.
+rhea got a mean score of 41.45.
+rhea won 59.4% of the 96 games against agent_basicmcts.
+rhea won 59.4% of the 96 games against agent_osla.
+rhea won 59.4% of the 96 games against agent_random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.60 +/- 0.049	Mean Ordinal 1.56 +/- 0.08
+agent_basicmcts: Win rate 0.26 +/- 0.045	Mean Ordinal 2.22 +/- 0.10
+agent_osla: Win rate 0.08 +/- 0.028	Mean Ordinal 2.95 +/- 0.09
+agent_random: Win rate 0.05 +/- 0.021	Mean Ordinal 3.25 +/- 0.09
+

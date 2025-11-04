@@ -1,11 +1,11 @@
 {
-  "game" : "Connect4",
+  "game" : "TicTacToe",
   "nPlayers" : 2,
   "mode" : "exhaustive",
   "matchups" : 1000,
   "verbose" : false,
   "seed" : 740234,
   "listener" : "json/listeners/basiclistener.json",
-  "destDir" : "exercise3_outputdir",
+  "destDir" : "exercise3_outputdir2",
   "playerDirectory" : "json/players/lab3/tournamentPlayers"
 }
